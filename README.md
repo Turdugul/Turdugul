@@ -39,8 +39,3 @@ I am a Junior Software Engineer specializing in frontend development, with a str
 Outside of coding, I enjoy **cooking** and **walking**. I find exploring new recipes and spending time outdoors a great way to recharge and stay creative.
 
 
-
-
-
-
--->
