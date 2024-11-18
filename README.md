@@ -2,8 +2,10 @@
 ### Fullstack Web Developer | Passionate about Crafting Seamless User Experiences
 
 ---
-## 📝 Summary
-I am a Junior Software Engineer specializing in frontend development, with a strong foundation in creating responsive, cross-browser-compatible web applications. Proficient in **HTML**, **CSS**, **JavaScript**, and **React**, I thrive in collaborative Agile environments and am passionate about learning new technologies and delivering impactful solutions.
+### 📝 Summary
+
+ I am a Junior Software Engineer specializing in frontend development, with a strong foundation in creating responsive, cross-browser-compatible web applications. Proficient in **HTML**, **CSS**, **JavaScript**, and **React**, I thrive in collaborative Agile environments and am passionate about learning new technologies and delivering impactful solutions.
+ 
 ---
 
 ## 🔧 Tech Stack:
