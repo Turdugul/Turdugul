@@ -25,7 +25,7 @@ I am a Junior Software Engineer specializing in frontend development, with a str
 - RESTful APIs, Node.js
 ---
 ## 📫 Connect with Me
-- [LinkedIn](https://github.com/Turdugul)
+- [LinkedIn](https://www.linkedin.com/in/turdugul/)
 - [Portfolio](https://portfolio-next2-24.vercel.app/)
 - [Email](mailto:your.email@example.com)
 
