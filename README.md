@@ -24,14 +24,14 @@ I am a Junior Software Engineer specializing in frontend development, with a str
 ### API Integration
 - RESTful APIs, Node.js
 ---
-## 📫 Connect with Me
+### 📫 Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/turdugul/)
 - [Portfolio](https://portfolio-next2-24.vercel.app/)
 - [Email](mailto:your.email@example.com)
 
 ---
 
-## ⚡ Fun Fact
+### ⚡ Fun Fact
 Outside of coding, I enjoy **cooking** and **walking**. I find exploring new recipes and spending time outdoors a great way to recharge and stay creative.
 
 
