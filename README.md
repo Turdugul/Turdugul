@@ -28,17 +28,6 @@ I am a Junior Software Engineer specializing in frontend development, with a str
 
 ---
 
-
-## 🌐 Projects
-
-### [Project Name](https://github.com/yourusername/project)
-A brief description of what the project does and the technologies used.  
-
-### [Another Project](https://github.com/yourusername/another-project)
-Highlight key features or challenges solved.
-
----
-
 ## 📫 Connect with Me
 - LinkedIn: (https://github.com/Turdugul)
 - Portfolio: (https://portfolio-next2-24.vercel.app/)
